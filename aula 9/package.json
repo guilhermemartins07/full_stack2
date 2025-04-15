@@ -12,5 +12,12 @@
   },
   "author": "Guilherme Martins",
   "license": "ISC",
-  "description": "\"Meu primeiro servidor\""
+  "description": "\"Meu primeiro servidor\"",
+  "repository": {
+    "type": "git",
+    "url": "github.com/guilhermemartins07/full_stack2"
+  },
+  "keywords": [
+    "a"
+  ]
 }
